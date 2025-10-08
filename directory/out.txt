@@ -1,2 +1,14 @@
 Client not found: ACA Gym
 Client found |  |  | 
+Client foundACA Gym | John | 1234567890 | Retail
+Client foundACA Gym | John | 1234567890 | Retail
+Client foundACA Gym | John | 1234567890 | Retail
+Client foundACA Gym | John | 1234567890 | Retail
+Client foundACA Gym | John | 1234567890 | Retail
+Client foundACA Gym | John | 1234567890 | Retail
+Client foundACA Gym | John | 1234567890 | Retail
+Client not found: Nonexistent Client
+Client foundACA Gym | John | 1234567890 | Retail
+Client not found: Nonexistent Client
+Client foundTech Solutions | Alice | 0987654321 | IT Services
+Client foundACA Gym | John | 1234567890 | Retail

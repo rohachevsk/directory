@@ -10,6 +10,9 @@ int main()
 	dir.addClient(obj1);
 	dir.addClient(obj2);
 	dir.searchByName("ACA Gym");
-	
+	dir.searchByName("Nonexistent Client");
+	dir.searchByNumber("0987654321");
+	dir.searchByTypeOfActivity("Retail");
+	return 0; 
 }
 
